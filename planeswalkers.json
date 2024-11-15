@@ -1,0 +1,9 @@
+[
+    { "name": "Jace Beleren", "color": "Blue", "description": "A master of mental magic and illusions." },
+    { "name": "Chandra Nalaar", "color": "Red", "description": "A fiery pyromancer with an impulsive personality." },
+    { "name": "Liliana Vess", "color": "Black", "description": "A necromancer who deals in death and power." },
+    { "name": "Garruk Wildspeaker", "color": "Green", "description": "A primal hunter and beastmaster." },
+    { "name": "Ajani Goldmane", "color": "White", "description": "A leonine healer and protector of the weak." },
+    { "name": "Teferi, Time Raveler", "color": "Blue/White", "description": "A temporal mage skilled in manipulation." },
+    { "name": "Nicol Bolas", "color": "Blue/Black/Red", "description": "An elder dragon with unmatched cunning and power." }
+]

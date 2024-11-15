@@ -1,0 +1,10 @@
+[
+    { "name": "Serra Angel", "color": "white", "manaCost": 5, "type": "Creature" },
+    { "name": "Counterspell", "color": "blue", "manaCost": 2, "type": "Instant" },
+    { "name": "Dark Ritual", "color": "black", "manaCost": 1, "type": "Spell" },
+    { "name": "Lightning Bolt", "color": "red", "manaCost": 1, "type": "Spell" },
+    { "name": "Llanowar Elves", "color": "green", "manaCost": 1, "type": "Creature" },
+    { "name": "Wrath of God", "color": "white", "manaCost": 4, "type": "Sorcery" },
+    { "name": "Giant Growth", "color": "green", "manaCost": 1, "type": "Instant" },
+    { "name": "Fireball", "color": "red", "manaCost": 1, "type": "Sorcery" }
+]
