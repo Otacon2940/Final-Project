@@ -2,8 +2,16 @@
     { "name": "Jace Beleren", "color": "Blue", "description": "A master of mental magic and illusions." },
     { "name": "Chandra Nalaar", "color": "Red", "description": "A fiery pyromancer with an impulsive personality." },
     { "name": "Liliana Vess", "color": "Black", "description": "A necromancer who deals in death and power." },
-    { "name": "Garruk Wildspeaker", "color": "Green", "description": "A primal hunter and beastmaster." },
     { "name": "Ajani Goldmane", "color": "White", "description": "A leonine healer and protector of the weak." },
     { "name": "Teferi, Time Raveler", "color": "Blue/White", "description": "A temporal mage skilled in manipulation." },
-    { "name": "Nicol Bolas", "color": "Blue/Black/Red", "description": "An elder dragon with unmatched cunning and power." }
+    { "name": "Nicol Bolas", "color": "Blue/Black/Red", "description": "An elder dragon with unmatched cunning and power." },
+    { "name": "Gideon Jura", "color": "White", "description": "A stalwart protector and powerful warrior." },
+    { "name": "Sorin Markov", "color": "Black/White", "description": "A vampire lord with a flair for the dramatic." },
+    { "name": "Karn, the Great Creator", "color": "Colorless", "description": "A golem with the power to shape worlds." },
+    { "name": "Nissa Revane", "color": "Green", "description": "A nature-loving planeswalker deeply connected to the land." },
+    { "name": "Ral Zarek", "color": "Blue/Red", "description": "A lightning-wielding genius with a knack for storm magic." },
+    { "name": "Elspeth Tirel", "color": "White", "description": "A knight with unwavering resolve and a tragic past." },
+    { "name": "Domri Rade", "color": "Red/Green", "description": "A chaotic warrior who channels the primal forces of nature." },
+    { "name": "Ugin, the Spirit Dragon", "color": "Colorless", "description": "A powerful dragon spirit with ancient wisdom." },
+    { "name": "Vivien Reid", "color": "Green", "description": "A survivalist archer who fights for balance in nature." }
 ]
